@@ -9,7 +9,7 @@
 
 ##### Сервис по публикации событий и поиска компании для участии в этих событиях
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergey-oreshkin&repo=java-explore-with-me)](https://github.com/sergey-oreshkin/java-explore-with-me)  
-Тоже учебный проект. Использовал кроме обычного спрингового стека <img src="https://mapstruct.org/images/mapstruct.png" height="24"/>,<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmXYhL7a6aMBFPBkPpzjf6EcD06vHZ_zBOq5ny7pCv&s" height="24"/>. Пришлось поглубже копнуть `CriteriaApi` и `EntityGraph` 
+Тоже учебный проект. Использовал, кроме обычного спрингового стека, <img src="https://mapstruct.org/images/mapstruct.png" height="24"/> и <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmXYhL7a6aMBFPBkPpzjf6EcD06vHZ_zBOq5ny7pCv&s" height="24"/>. Пришлось поглубже копнуть `CriteriaApi` и `EntityGraph` 
 
 ##### Сервис для добавления, оценки и рекомендации фильмов на основе общих предпочтений.   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergey-oreshkin&repo=java-filmorate)](https://github.com/sergey-oreshkin/java-filmorate?)   
